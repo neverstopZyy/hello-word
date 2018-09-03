@@ -1,2 +1,2 @@
 # MedDataPro
-this is a medical data processing source code
+this is a repository of medical data processing source code written by dc, zyy and cyj
